@@ -1,5 +1,5 @@
-# Exotics Image Scraper
-A small application that gets and labels images of exotic animals, such as lizards and tarantulas, by species.
+# Tarantula Image Scraper
+A small application that gets and labels tarantulas by species.
 The labeled images can then be used to train an ML model to classify animals in new images.
 
 # Scraping Algorithm
